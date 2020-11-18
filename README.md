@@ -12,7 +12,7 @@ During ride, calculating RPM: Circ==Pi*((d/2)^2) | from Accelerometor get MPH {5
 RPM = Circ/Distance
 
 
-Accelerometor https://learn.adafruit.com/lsm6ds33-6-dof-imu=accelerometer-gyro 7$
+Accelerometor https://www.adafruit.com/product/4485 9.95$
 
 RGB LED STRIP: https://www.adafruit.com/product/285?length=2 32$
 
