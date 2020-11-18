@@ -33,4 +33,4 @@ then map all grid to "angle"
 
 each angle == RGBStrip[4] =[#hex1],[hex2][hex3,[hex4] Accounting for index on one side, so picture does not appear upside down
 
-
+MAYBE need a Soddering Gun: 20$ on Amazon
